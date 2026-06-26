@@ -164,62 +164,34 @@
       }
     }
   },
-  "review": [
+ "review": [
   {
     "@type": "Review",
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": 5,
-      "bestRating": 5
-    },
+    "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
     "datePublished": "2026-04-15",
     "reviewBody": "Saya suka karena deposit DANA 10 ribu benar-benar praktis. Koleksi game slotnya lengkap dan informasi RTP real time membuat saya lebih mudah memilih permainan.",
-    "author": {
-      "@type": "Person",
-      "name": "Rizky Pratama"
-    }
+    "author": { "@type": "Person", "name": "Rizky Pratama" }
   },
   {
     "@type": "Review",
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": 5,
-      "bestRating": 5
-    },
+    "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
     "datePublished": "2026-05-08",
     "reviewBody": "Pelayanan customer service di WATITOTO sangat responsif. Saat membutuhkan bantuan deposit melalui DANA, prosesnya cepat dan semua pertanyaan dijawab dengan baik.",
-    "author": {
-      "@type": "Person",
-      "name": "Andi Saputra"
-    }
+    "author": { "@type": "Person", "name": "Andi Saputra" }
   },
   {
     "@type": "Review",
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": 5,
-      "bestRating": 5
-    },
+    "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
     "datePublished": "2026-05-27",
     "reviewBody": "Bonus member baru cukup menarik karena saldo awal bermain menjadi lebih besar. Sangat cocok bagi pemain yang ingin mencoba berbagai pilihan game slot dengan modal yang terjangkau.",
-    "author": {
-      "@type": "Person",
-      "name": "Fajar Nugraha"
-    }
+    "author": { "@type": "Person", "name": "Fajar Nugraha" }
   },
   {
     "@type": "Review",
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": 5,
-      "bestRating": 5
-    },
+    "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
     "datePublished": "2026-06-14",
     "reviewBody": "WATITOTO menjadi pilihan saya karena menyediakan banyak game slot populer, deposit DANA mulai 10 ribu, dan proses transaksi berlangsung cepat sehingga pengalaman bermain terasa lebih nyaman.",
-    "author": {
-      "@type": "Person",
-      "name": "Bima Kurniawan"
-    }
+    "author": { "@type": "Person", "name": "Bima Kurniawan" }
   }
 ]
 </script>
